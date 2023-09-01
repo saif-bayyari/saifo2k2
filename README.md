@@ -1,10 +1,8 @@
-Hi! I'm Saif Bayyari. I'm a 20 year old college student pursuing a cybersecurity degree.
+Hi! I'm Saif Bayyari. I'm a 21 year old college student pursuing a cybersecurity degree and a software development focus in Information Technology.
 
-I am interested in getting my first computer programming job, preferably an internship/co-op in January 2023.
+I am interested in getting my first computer programming job, preferably an internship/co-op in January 2024.
 
 I'm looking to collaborate on any mobile app, game, or web development projects in the C# or Python languages.
-
-I'm currently learning .NET 6 Web Application development and Lua scripting!
 
 How to reach me:
 
